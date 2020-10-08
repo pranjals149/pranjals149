@@ -11,7 +11,7 @@
 :point_right: <a href="https://www.linkedin.com/in/pranjal-srivastava-801a9a152/">LinkedIn</a>&nbsp;&nbsp;
 :point_right: <a href="https://medium.com/@pranjals149">Medium</a>&nbsp;&nbsp;
 :point_right: <a href="https://twitter.com/pranjals149">Twitter</a>&nbsp;&nbsp;
-:point_right: <a href="pranjalportfolio.netlify.app">Personal Portfolio</a>&nbsp;&nbsp;
+:point_right: <a href="http://pranjalportfolio.netlify.app">Personal Portfolio</a>&nbsp;&nbsp;
 :point_right: <a href="https://codepen.io/pranjals149">Codepen</a>&nbsp;&nbsp;
 <br />
 <br />
