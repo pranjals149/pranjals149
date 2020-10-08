@@ -1,15 +1,24 @@
+<h1 align="center">PRANJAL SRIVASTAVA :sunglasses:</h1>
+<img src="https://github.com/pranjals149/pranjals149/blob/master/GithubReadme.gif">
+<br />
 
-<!--
-**pranjals149/pranjals149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>ABOUT ME :speech_balloon:</h3>
+<p> A MERN Stack Developer with experience in working in the software development and services. Skilled in MERN Stack Development and Python. Experience in developing applications with a BTech - Bachelor of Technology focused in Computer Science and Engineering with specialization in Cyber Security and Forensics from University of Petroleum and Energy Studies, Dehradun. Technical writer at GeeksforGeeks, OpenGenus, Medium. </p>  
 
-Here are some ideas to get you started:
+<h3>SOCIAL HANDLES :cyclone:</h3>
+:point_right: <a href="https://twitter.com/pranjals149">Twitter</a>&nbsp;&nbsp;
+:point_right: <a href="https://github.com/pranjals149">Github</a>&nbsp;&nbsp;
+:point_right: <a href="https://www.linkedin.com/in/pranjal-srivastava-801a9a152/">LinkedIn</a>&nbsp;&nbsp;
+:point_right: <a href="https://medium.com/@pranjals149">Medium</a>&nbsp;&nbsp;
+:point_right: <a href="https://twitter.com/pranjals149">Twitter</a>&nbsp;&nbsp;
+:point_right: <a href="pranjalportfolio.netlify.app">Personal Portfolio</a>&nbsp;&nbsp;
+:point_right: <a href="https://codepen.io/pranjals149">Codepen</a>&nbsp;&nbsp;
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>GITHUB STATS 📊</h3>
+<img src = "https://github-readme-stats.vercel.app/api?username=pranjals149&show_icons=true&theme=dracula" />
+
+<h3>VISITOR'S COUNT</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/{pranjals149}/count.svg)
